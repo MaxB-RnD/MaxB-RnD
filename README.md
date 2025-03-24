@@ -5,6 +5,6 @@ I'm a **Machine Learning Engineer** working on AI-driven navigation and percepti
 I’m passionate about **autonomous systems, deep learning, and real-world AI applications**, especially in high-risk and defense environments. My work involves exploring **SLAM, sensor fusion, and deep learning** for robust navigation solutions.  
 
 🔹 **Interests:** Machine Learning, Computer Vision, Autonomous Systems, Sensor Fusion  
-🔹 **Tech Stack:** Python, PyTorch, TensorFlow, OpenCV, ROS, Jetson Nano 
+🔹 **Tech Stack:** Python, PyTorch, TensorFlow, OpenCV, ROS 
 
 Feel free to check out my work and connect! 🚀  
